@@ -1,0 +1,7 @@
+Hedef makinede firewall yani güvenlik duvarı devrede olabilir. Güvenlik duvarını atlatmak için bazı yöntemler vardır. 
+Bu yöntem:
+->> -f parametresini kullanma işlemi
+
+-f parametresini kullanma işlemi: -f parametresi ile paketleri parçalayıp güvenlik duvarını aşmasını sağlayabilirsiniz.
+
+örnek: nmap -f 1xx.xxx.x.xx

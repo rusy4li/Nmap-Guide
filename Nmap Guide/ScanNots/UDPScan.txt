@@ -1,0 +1,3 @@
+Bu tarama türünde hedef makineye bir UDP datagramı gönderilir. 
+Eğer hedef makine "ICMP Port Unreachable" döndürüyor ise hedef makine kapalı olarak kabul edilir. 
+Eğer gönderilen pakete karşılık bir ICMP paketi ile karşılık verilirse port açık olarak kabul edilir.

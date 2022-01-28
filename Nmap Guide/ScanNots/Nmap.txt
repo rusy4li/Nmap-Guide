@@ -1,0 +1,4 @@
+Nmap; C/C++ ve Python ile kodlanmış bir ağ tarayıcısıdır. 
+Nmap ile hedef ağ hakkında bilgi toplayabilirsiniz. 
+Ağın topolojisi, ağda çalışan cihazları tespiti, 
+cihazların hangi portlarında hangi servislerin çalıştığı gibi bilgileri edinebiliyoruz.

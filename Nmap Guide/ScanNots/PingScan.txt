@@ -1,0 +1,4 @@
+Bu tarama türünde hedef makineye bşr ICMP ECHO istek paketi gönderilir. 
+Eğer hedef makineye ulaşılabiliyor ve hedef makinede ICMP filtreleme bulunmuyor ise hedef makine 
+karşılık olarak ICMP ECHO paketi gönderecektir. Eğer hedef makineye ulaşılamaz 
+veyahut hedef makine ICMP paketlerini filtreliyor ise cevap olarak herhangi bir şey dönmeyecektir.

@@ -1,0 +1,5 @@
+Hedef makinede firewall yani güvenlik duvarı devrede olabilir. Güvenlik duvarını atlatmak için bazı yöntemler vardır. 
+Bu yöntem:
+->> MTU İşlemi
+->> IP Spoofing İşlemi
+->> -f parametresini kullanma işlemi

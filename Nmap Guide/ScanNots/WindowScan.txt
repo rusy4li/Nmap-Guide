@@ -1,0 +1,3 @@
+Bazı durumlarda hedef makine kapalı bir port olduğunu belirtmek için cevap olarak döndürdüğü RST bayrağı 
+set edilmiş segmente bir window boyutu tanımlar. Açık bir porttan dönen RST bayrağı set edilmiş segmentin window boyutuna bakılır. 
+Boyut 0 ise Port gerçekten kapalıdır. Değil ise port açıktır.

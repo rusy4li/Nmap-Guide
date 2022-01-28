@@ -1,0 +1,4 @@
+Bu tarama türünde bayrak set edilmemiş istekler ile yapılan bir tarama türüdür. 
+Yapılan istekte hedef makinenin tepkisi ise FIN Scan ve Xmas Scan ile aynıdır. 
+Eğer paketin gönderildiği port kapalı ise hedef makine bize RST + ACK bayraklı segment döndürecektir. 
+Eğer port açık ise hedef makine tarafından herhangi bir geri dönüş yapılmayacaktır.          

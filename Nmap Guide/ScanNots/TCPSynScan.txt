@@ -1,0 +1,4 @@
+İstemci makine, hedef makine veya makinelere TCP SYN bayraklı bir segment gönderir.
+Eğer segmentin gönderildiği port kapalı ise hedef makine cevap olarak RST + ACK; 
+portlar açık ise SYN + ACK bayraklı segmentleri döndürür. Daha sonra RST + ACK bayraklı segmentten gelen bağlantıyı sonlandırır 
+ve üçlü el sıkışma(three way handshaking) tamamlanmamış olur. Böylelikle hedef makine veya makinelerde hangi portların açık olup olmadığını tespit edebiliyoruz.

@@ -1,0 +1,6 @@
+Tarama Sonuçlarını Dosyaya Aktarma:
+
+<(1)> -oN parametresi ile tarama sonuçlarını normal olarak output.txt dosyasına kaydedilebilir.
+örnek: nmap -sS -oN output.txt 1xx.xxx.x.xx
+<(2)> -oX parametresi ile tarama sonuçlarını XML formatında output.xml dosyasına kaydedilebilir.
+örnek: nmap -sS -oX output.xml 1xx.xxx.x.xx

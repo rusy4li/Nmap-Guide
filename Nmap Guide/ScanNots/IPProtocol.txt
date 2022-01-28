@@ -1,0 +1,3 @@
+Bu türde hedef makine üzerine bir IP protokolü ile tarama yapılır. 
+Eğer hedef makinede tarama gerçekleştirdiğimiz Ip protokolü aktif ise 
+herhangi bir cevap döndürmez. Eğer aktif değil ise RST bayrağı set edilmiş bir cevap döndürür.

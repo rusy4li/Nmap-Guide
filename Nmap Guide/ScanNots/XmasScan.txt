@@ -1,0 +1,3 @@
+Bu türde TCP segmentinde URG, PSH, FIN bayrakları set edilerek hedef makineye istek gönderilir. 
+Eğer port kapalı ise hedef makine bize RST + ACK bayraklı segment döndürecektir. 
+Eğer port açık ise hedef makine tarafından herhangi bir geri dönüş olmayacaktır.

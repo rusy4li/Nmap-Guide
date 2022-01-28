@@ -1,0 +1,7 @@
+Hedef makinede firewall yani güvenlik duvarı devrede olabilir. Güvenlik duvarını atlatmak için bazı yöntemler vardır. 
+Bu yöntem:
+->> IP Spoofing İşlemi
+
+IP Spoofing İşlemi: -D parametresini IP Spoofing işlemi için kullanıyoruz. Hedef makineye IP adresimiz 1xx.xxx.x.x'miş gibi paket yolluyoruz.
+
+örnek: nmap -D 1xx.xxx.x.xx(fake ip) 1xx.xxx.x.xx(hedef makine ip) 

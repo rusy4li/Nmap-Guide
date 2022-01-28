@@ -1,0 +1,4 @@
+Hedef makineye TCP bağlantı isteği olmadan gönderilen segmentler 
+ile yapılan tarama türüdür. Hedef makineye FIN bayraklı segment gönderilir. 
+Eğer port kapalı ise hedef makine bize RST + ACK bayraklı segment döndürecektir. 
+Eğer port açık ise hedef makine tarafından herhangi bir geri dönüş olmayacaktır.

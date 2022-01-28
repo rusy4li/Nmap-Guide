@@ -1,0 +1,2 @@
+TCP SYN Scan ile benzerlik gösterir. Tek farkı hedef makineye gönderdiği SYN + ACK bayraklı segmentten sonra 
+hedef makineye bir ACK bayraklı segment göndererek üçlü el sıkışmayı tamamlamasıdır.

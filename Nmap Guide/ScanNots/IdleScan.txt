@@ -1,0 +1,2 @@
+Bu tarama türü Zombi Bilgisayarlar tarafından yapılan tarama türüdür.
+Hedef makineye istekler kaynak makineden değil de belirlenen Zombi Bilgisayar üzerinden gider.

@@ -1,0 +1,7 @@
+Hedef makinede firewall yani güvenlik duvarı devrede olabilir. Güvenlik duvarını atlatmak için bazı yöntemler vardır. 
+Bu yöntem:
+->> MTU İşlemi
+
+MTU İşlemi: -MTU parametresi ile istediğiniz MTU değerini atayabiliyoruz. 
+
+örnek: nmap -MTU 576 1xx.xxx.x.x

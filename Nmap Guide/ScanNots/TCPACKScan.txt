@@ -1,0 +1,4 @@
+Bu tarama türünde hedef makineye TCP ACK bayrakları set edilmiş bir bir istek gönderilir. 
+Eğer hedef makine "ICMP Port Unreachable" döndürüyor ise veyahut herhangi bir cevap alınmıyor ise 
+hedef makinedeki port "filtered" olarak kabul edilir. Eğer hedef makine RST bayrağı set edilmiş bir cevap döndürüyor ise 
+port "unfiltered" olarak kabul edilir.
