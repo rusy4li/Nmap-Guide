@@ -16,7 +16,7 @@
 # Nmap Kurulum:
 -> Nmap İndirme Sitesi: https://nmap.org/download.html
 
-# Arayüz Fotoğrafı:
+# Önizleme:
 ![Nmap Guide](https://user-images.githubusercontent.com/90040826/151536550-0a03f2e9-6c68-471f-95f0-2554af3de839.png)
 
 ## Bu Program rusy4li adlı coder tarafından kodlanmıştır!
